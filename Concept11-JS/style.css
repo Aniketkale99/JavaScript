@@ -1,0 +1,20 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+div{
+    background-color: pink;
+    width: 400px;
+    height: 200px;
+}
+
+ul{
+    background-color: blue;
+}
+
+li{
+    background-color: greenyellow;
+}
